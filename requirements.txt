@@ -1,10 +1,10 @@
-beautifulsoup4
 telethon
+akinator.py
 setuptools
 wheel
 aiofiles
 aiohttp
-akinator.py
+beautifulsoup4
 cairosvg
 cfscrape
 coffeehouse==2.2.4
