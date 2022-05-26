@@ -6,6 +6,6 @@ it's just a simple user bot source based on Telethon .
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/offub/pack)
 
 # developers
-[moha](t.me/mmccc)
-
-[kazim](t.me/ytlty)
+ - [moha](t.me/mmccc)
+ - [kazim](t.me/ytlty)
+ - [Off channel](t.me/offub)
