@@ -3,7 +3,7 @@
 
 it's just a simple user bot source based on Telethon .
 ## Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/offub/pack)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/offub/pack)
 
 # developers
  - [moha](t.me/mmccc)
