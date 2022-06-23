@@ -1,65 +1,65 @@
 {
-  "name": "Offub",
-  "description": "The beta ..",
+  "name": "OffUB",
+  "description": " off user bot is the best source based on Telethon",
   "logo": "https://telegra.ph/file/2d0affbb63ba34123b929.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/offub/bot",
+  "repository": "https://github.com/offub/pack",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "اسم التلكرام",
+      "description": "your name in tele",
       "value": ""
     },
     "APP_ID": {
-      "description": "ايبي ايدي", 
+      "description": "app id get it from : my.telegram.org", 
       "value": ""
     },
     "API_HASH": {
-      "description": "ايبي هاش",
+      "description": "api hash get it from : my.telegram.org",
       "value": ""
     },
     "ENV": {
-      "description": "لاتلعب بهاي",
+      "description": "don't change !",
       "value": "ANYTHING"
     },
     "COMMAND_HAND_LER": {
-      "description": "لاتلعب بهاي هم",
+      "description": "don't change !",
       "value": "."
     },
     "STRING_SESSION": {
-      "description": "كو ترمكس",
+      "description": "string session",
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": "معرف البوت بدون @",
+      "description": "bot username without @",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "توكن البوت",
+      "description": "bot token",
       "value": ""
     },
     "HEROKU_API_KEY": {
-      "description": "ايبي كي من هيروكو",
+      "description": "heroku api key get it from : https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم مال تطبيق هيروكو",
+      "description": "heroku app name",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "المنطقه",
+      "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
       "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لا تلعب هنا",
+      "description": "don't change !",
       "value": "offub",
       "required": false
     }

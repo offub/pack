@@ -1,7 +1,7 @@
 FROM offub/bot:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/offub/bot.git /root/userbot
+RUN git clone https://github.com/offub/bot.git /root/bot
 #working directory 
 WORKDIR /root/bot
 
