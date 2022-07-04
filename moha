@@ -87,7 +87,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m bot
+    python3 -m userbot
 }
 
 _set_bot
