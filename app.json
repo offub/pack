@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "don't change !",
-      "value": "offub",
+      "value": "bot",
       "required": false
     }
   },
